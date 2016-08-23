@@ -14,7 +14,7 @@ public class JavaMain {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello All a change was made");
-
+		System.out.println("Another change was made");
 	}
 
 }
